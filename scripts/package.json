@@ -1,0 +1,17 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "import": "node import.js"
+  },
+  "author": "Jiacheng Pan",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^9.6.11",
+    "firestore-export-import": "^1.1.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.2"
+  }
+}
