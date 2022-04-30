@@ -12,9 +12,6 @@ disqus:
 logo: assets/images/tardis_draw.png
 bottom_logo: assets/images/scribble.png
 
-collections:
-  - notes
-
 # Build settings
 markdown: kramdown
 plugins:
