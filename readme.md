@@ -6,14 +6,15 @@ This is where I put my thoughts for time travelling.
 ## Development
 
 ```
-bundler update
-bundler exec jekyll serve
+bundle install
+bundle update
+bundle exec jekyll serve
 ```
 
 ## New Post
 
 ```
-bundler exec jekyll post <name>
+bundle exec jekyll post <name>
 ```
 
 ## License
